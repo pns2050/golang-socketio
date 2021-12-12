@@ -8,8 +8,8 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/mtfelian/golang-socketio"
-	"github.com/mtfelian/golang-socketio/examples/model"
+	"github.com/pns2050/golang-socketio"
+	"github.com/pns2050/golang-socketio/examples/model"
 )
 
 var assetsDir http.FileSystem
